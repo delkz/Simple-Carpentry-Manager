@@ -1,0 +1,103 @@
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\SqlServerTypes\x64\msvcr120.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\SqlServerTypes\x86\msvcr120.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Manual.pdf
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Marcenaria.mdb
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Simple Carpentry Manager.exe.config
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Simple Carpentry Manager.exe.manifest
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Simple Carpentry Manager.application
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Simple Carpentry Manager.exe
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Simple Carpentry Manager.pdb
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Simple Carpentry Manager.xml
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.ReportViewer.Common.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.ReportViewer.Design.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.SqlServer.Types.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\EnvDTE.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\stdole.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\Microsoft.MSXML.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\x86\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.Cliente.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.editarocliente.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.RelatorioPedido.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.RelatorioCliente.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.EditarMaterial.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.configurarapp.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.buscarupdate.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.editarusu.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.editarusuarios.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.Cadastro.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.cadastrodenovo.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.login.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.usuarioscadastrados.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.CriarMaterial.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.editarpedido.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.Pedido.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.VisualizarPedidos.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.PedidosProximos.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.PU_CriarUser.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.PU_FINAL.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.SplashScreen.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.TelaInicial.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.Resources.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple_Carpentry_Manager.visualizarclientes.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple Carpentry Manager.vbproj.GenerateResource.cache
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple Carpentry Manager.vbproj.CoreCompileInputs.cache
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple Carpentry Manager.TrustInfo.xml
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple Carpentry Manager.exe.manifest
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple Carpentry Manager.application
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple Carpentry Manager.vbproj.CopyComplete
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple Carpentry Manager.exe
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple Carpentry Manager.xml
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\x86\Release\Simple Carpentry Manager.pdb

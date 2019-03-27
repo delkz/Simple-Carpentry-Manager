@@ -1,0 +1,1091 @@
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.cache
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Visualizarclientes.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarPedido.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+C:\Users\Luiz\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarcliente.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarcliente.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+C:\Users\LabInfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarcliente.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+I:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarcliente.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+C:\Users\etecja\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+C:\Users\labinfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+C:\Users\labinfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+C:\Users\labinfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.ConsultaMateriaisGeral.resources
+C:\Users\labinfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.ConsultaMaterialIndividual.resources
+C:\Users\labinfo\Desktop\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+E:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+F:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojAssemblyReference.cache
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.cache
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.CoreCompileInputs.cache
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+G:\TCC\Simple Carpentry Manager\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+F:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+F:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+F:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+F:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+F:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+E:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+E:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+E:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+E:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+C:\Users\LabInfo\Desktop\SCM 017\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+E:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.manifest
+E:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.application
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.TrustInfo.xml
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe.manifest
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.application
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\RdlCompile.cache
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\RdlCompile.compiled
+F:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.manifest
+F:\TCC\Versão Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.application
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.TrustInfo.xml
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe.manifest
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.application
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\RdlCompile.cache
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\RdlCompile.compiled
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioPedido.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioCliente.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioPedido.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioCliente.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.buscarupdate.resources
+F:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PedidosProximos.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.buscarupdate.resources
+E:\TCC\Versão Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PedidosProximos.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.manifest
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.application
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioPedido.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioCliente.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.buscarupdate.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PedidosProximos.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\RdlCompile.cache
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\RdlCompile.compiled
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.TrustInfo.xml
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe.manifest
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.application
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.cadastrodenovo.resources
+F:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusu.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.manifest
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.application
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioPedido.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioCliente.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.buscarupdate.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusu.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.cadastrodenovo.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PedidosProximos.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.TrustInfo.xml
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe.manifest
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.application
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\EnvDTE.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\stdole.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.MSXML.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.CoreCompileInputs.cache
+E:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.CopyComplete
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.manifest
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.application
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioPedido.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioCliente.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.buscarupdate.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusu.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.cadastrodenovo.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PedidosProximos.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\RdlCompile.cache
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\RdlCompile.compiled
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.TrustInfo.xml
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe.manifest
+I:\TCC\Versao Atual\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.application
+I:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Manual.pdf
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Manual.pdf
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\TCC\Versao Atual\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Manual.pdf
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.manifest
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.application
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\EnvDTE.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\stdole.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioPedido.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioCliente.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.buscarupdate.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusu.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.cadastrodenovo.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PedidosProximos.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.TrustInfo.xml
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe.manifest
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.application
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.CopyComplete
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+C:\Users\Pichau\Desktop\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Manual.pdf
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.manifest
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.application
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\EnvDTE.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\stdole.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\Microsoft.MSXML.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioPedido.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioCliente.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.buscarupdate.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusu.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.cadastrodenovo.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PedidosProximos.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.cache
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.CoreCompileInputs.cache
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.TrustInfo.xml
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe.manifest
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.application
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.CopyComplete
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+D:\Pichau\Desktop\TCC\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+E:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+E:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+E:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+E:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+E:\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\019\Simple Carpentry Manager\bin\Debug\Manual.pdf
+E:\019\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+E:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.manifest
+E:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.application
+E:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+E:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+E:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+E:\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\019\Simple Carpentry Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioPedido.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioCliente.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.buscarupdate.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusu.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.cadastrodenovo.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PedidosProximos.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+E:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+E:\019\Simple Carpentry Manager\obj\Debug\RdlCompile.cache
+E:\019\Simple Carpentry Manager\obj\Debug\RdlCompile.compiled
+E:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.TrustInfo.xml
+E:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe.manifest
+E:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.application
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioRecibo.resources
+E:\019\Simple Carpentry Manager\bin\Debug\recibo.pdf
+E:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.changlog.resources
+I:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+I:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+I:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+I:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+I:\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+I:\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+I:\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+I:\019\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+I:\019\Simple Carpentry Manager\bin\Debug\Manual.pdf
+I:\019\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+I:\019\Simple Carpentry Manager\bin\Debug\recibo.pdf
+I:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.manifest
+I:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.application
+I:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+I:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+I:\019\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+I:\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+I:\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+I:\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+I:\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+I:\019\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+I:\019\Simple Carpentry Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+I:\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+I:\019\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+I:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.changlog.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioPedido.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioCliente.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioRecibo.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.buscarupdate.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusu.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.cadastrodenovo.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PedidosProximos.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+I:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+I:\019\Simple Carpentry Manager\obj\Debug\RdlCompile.cache
+I:\019\Simple Carpentry Manager\obj\Debug\RdlCompile.compiled
+I:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.TrustInfo.xml
+I:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe.manifest
+I:\019\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.application
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.config
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.xml
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.pdb
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Manual.pdf
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Marcenaria.mdb
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\recibo.pdf
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe.manifest
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.application
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.exe
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.pdb
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Simple Carpentry Manager.xml
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbprojResolveAssemblyReference.cache
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.changlog.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cliente.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarocliente.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioPedido.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioCliente.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterial.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.RelatorioRecibo.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.configurarapp.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.buscarupdate.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusu.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarusuarios.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Cadastro.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.cadastrodenovo.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.login.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.usuarioscadastrados.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMateriaisGeral.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.EditarMaterialIndividual.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.CriarMaterial.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.editarpedido.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Pedido.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.VisualizarPedidos.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PedidosProximos.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PrimeiroUsoCriarUsuario.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_CriarUser.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.PU_FINAL.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.SplashScreen.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.TelaInicial.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.Resources.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple_Carpentry_Manager.visualizarclientes.resources
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.vbproj.GenerateResource.Cache
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\RdlCompile.cache
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\RdlCompile.compiled
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.TrustInfo.xml
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.exe.manifest
+C:\Users\labinfo\Desktop\0193\Simple Carpentry Manager\obj\Debug\Simple Carpentry Manager.application

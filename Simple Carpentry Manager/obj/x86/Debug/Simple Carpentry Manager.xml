@@ -1,0 +1,271 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Simple Carpentry Manager
+</name>
+</assembly>
+<members>
+<member name="T:Simple_Carpentry_Manager.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.architecture_blur_building_257636">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.github">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.loading">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.loadingscreen">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.mainscreen">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.mainscreen2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.novaversaoaviso">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.SAIR">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.SCMlogo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.SCMlogo2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.SCMlogo2branco">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.SCMlogobranco">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.StockManagerLogo">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.StockManagerLogo2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.title">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Simple_Carpentry_Manager.My.Resources.Resources.titlescreen">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.ClienteTabelaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.PedidoTabelaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.UsuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.variaveisSistemaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.MateriaisDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.EstoqueDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.ClienteTabelaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.PedidoTabelaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.UsuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.variaveisSistemaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.MateriaisRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.EstoqueRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.ClienteTabelaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.PedidoTabelaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.UsuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.variaveisSistemaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.MateriaisRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSet.EstoqueRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.PedidoTabelaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.variaveisSistemaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.UsuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.ClienteTabelaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.MateriaisTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.EstoqueTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Simple_Carpentry_Manager.MarcenariaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Simple_Carpentry_Manager.MarcenariaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Simple_Carpentry_Manager.MarcenariaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.TableAdapterManager.UpdateAll(Simple_Carpentry_Manager.MarcenariaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Simple_Carpentry_Manager.MarcenariaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
